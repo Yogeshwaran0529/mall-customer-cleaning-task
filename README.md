@@ -8,7 +8,7 @@ Rows: 200
 
 Main Features: CustomerID, Gender, Age, Annual Income (k$), Spending Score (1-100)
 
-✅ Cleaning Steps
+Data Cleaning Steps
 1. 🧭 Initial Exploration
 
 Used .shape and .info() to inspect the dataset.
